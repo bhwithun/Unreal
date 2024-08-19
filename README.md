@@ -1,8 +1,6 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Never-Flat Tires
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+You will never get a flat tire thanks to our advanced new software!
 
 ![Picture of a flat tire](flat_tire.png)
 
